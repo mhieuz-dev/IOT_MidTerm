@@ -19,7 +19,7 @@ const char* WIFI_PASSWORD = "";
 
 // ==== Dia chi server Cloud tu xay (deploy tren Render) ====
 // DOI thanh dia chi that sau khi deploy xong webapp/ len Render.
-const char* SERVER_URL = "https://TEN-APP-CUA-BAN.onrender.com/api/data";
+const char* SERVER_URL = "https://iot-midterm.onrender.com/api/data";
 
 // ==== Chan phan cung (giong Tram chinh do an cuoi ky) ====
 #define DHTPIN 13
