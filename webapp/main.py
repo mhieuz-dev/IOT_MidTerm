@@ -223,7 +223,6 @@ footer.rail{margin-top:14px;padding-top:14px;border-top:1px solid var(--rail);
     <div class="lim"><span>0</span><span>50</span></div>
    </div>
    <h2>NHIỆT ĐỘ</h2>
-   <p>DHT22 · GPIO 13</p>
   </article>
   <article class="gauge g-hum rise" style="animation-delay:.14s">
    <div class="dial">
@@ -236,7 +235,6 @@ footer.rail{margin-top:14px;padding-top:14px;border-top:1px solid var(--rail);
     <div class="lim"><span>0</span><span>100</span></div>
    </div>
    <h2>ĐỘ ẨM</h2>
-   <p>DHT22 · cùng chân</p>
   </article>
   <article class="gauge g-light rise" style="animation-delay:.21s">
    <div class="dial">
@@ -249,7 +247,6 @@ footer.rail{margin-top:14px;padding-top:14px;border-top:1px solid var(--rail);
     <div class="lim"><span>0</span><span>4095</span></div>
    </div>
    <h2>ÁNH SÁNG</h2>
-   <p>LDR · GPIO 34</p>
   </article>
  </section>
 
@@ -271,7 +268,6 @@ footer.rail{margin-top:14px;padding-top:14px;border-top:1px solid var(--rail);
 
  <footer class="rail rise" style="animation-delay:.35s">
   <span id="capnhat">Chưa nhận dữ liệu</span>
-  <span>Cloud tự xây · FastAPI</span>
   <span>Dashboard tự làm mới mỗi giây</span>
  </footer>
 </div>
