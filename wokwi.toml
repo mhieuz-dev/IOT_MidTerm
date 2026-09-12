@@ -1,0 +1,7 @@
+[wokwi]
+version = 1
+firmware = '.pio/build/esp32doit-devkit-v1/firmware.bin'
+elf = '.pio/build/esp32doit-devkit-v1/firmware.elf'
+
+# Khong can [[net.forward]] o bai nay: ESP32 chi GOI RA Blynk Cloud (outbound),
+# khong co web server nao chay tren ESP32 can trinh duyet that vao (inbound).
